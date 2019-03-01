@@ -1,0 +1,17 @@
+{
+  "name": "russian-roullette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha ./test"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "should": "^8.2.2",
+    "sinon": "^1.17.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
